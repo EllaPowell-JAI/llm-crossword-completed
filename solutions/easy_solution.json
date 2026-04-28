@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "answers": {
+    "1A@0,0": "CAT",
+    "1D@0,0": "COW",
+    "2D@0,2": "TEAR"
+  },
+  "grid": [
+    "CAT##",
+    "O#E##",
+    "W#A##",
+    "##R##",
+    "#####"
+  ],
+  "candidate_counts": {
+    "1A@0,0": 3,
+    "1D@0,0": 2,
+    "2D@0,2": 1
+  },
+  "diagnostics": []
+}

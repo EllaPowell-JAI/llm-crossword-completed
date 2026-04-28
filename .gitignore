@@ -1,0 +1,24 @@
+# Local secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Jupyter / editor noise
+.ipynb_checkpoints/
+.vscode/settings.json
+.idea/
+
+# OS files
+.DS_Store
