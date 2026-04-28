@@ -81,6 +81,3 @@ solutions/*.json            # generated solution outputs
 ANSWERS.md                  # human-readable solved grids and answers
 ```
 
-## Security note
-
-`.env` is for local secrets only and is listed in `.gitignore`. Do not commit API keys to the repository history or publish them in a remote GitHub repo.
